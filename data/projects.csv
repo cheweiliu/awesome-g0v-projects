@@ -1,6 +1,6 @@
 source,name,description,g0v_db_rows,owners,tags,github_repos,homepage
 "manual","令人驚奇的零時政府",,,"jhuang","g0v基礎建設","chunyenHuang/awesome-g0v-projects",
-"manual","幸福存摺",,"665","jhuang","教育,工具","chunyenHuang/piggy-bank-of-happiness",
+"manual","幸福存摺","設計給非營利事業組織兒少陪伴單位的電子獎勵系統，讓孩子們透過執行任務獲得點數，累積的點數可向機構換取獎品或是客製化的需求（例如：修鞋，修車）。","665","jhuang","教育,工具","chunyenHuang/piggy-bank-of-happiness",
 "manual","健保自付差額特材",,"668","jhuang","開放資料,醫療,工具","chunyenHuang/nhi-open-data-tool",
 
 "manual","Cofacts 真的假的",,"711,694,676,652,645,633,611,593,574,562,524,501,482,469,455,438,415,382,377,364","MrOrz,bil","事實查核","cofacts/rumors-api,cofacts/rumors-site,cofacts/rumors-line-bot,cofacts/rumors-fb-bot,cofacts/rumors-ai,cofacts/rumors-db,cofacts/rumors-deploy",
